@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samishan Thapa</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
-- 💬 Ask me about **React, Node, Python Django**
+- 💬 Ask me about **JavaScript, React, Node, Python, Django**
 
 - 📫 How to reach me **samishanthapa0@gmail.com**
 
