@@ -1,7 +1,6 @@
 # samishanthapa
 <h1 align="center">Hi 👋, I'm Samishan Thapa</h1>
 <h3 align="center">I am a full stack web developer</h3>
-<img src="https://scontent.fktm3-1.fna.fbcdn.net/v/t39.30808-1/311571919_1774194159585052_3690739451694336768_n.jpg?stp=dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=ddglqYYsHPQAX87nrQH&_nc_oc=AQmR6jyFYoygBG75De7XXfqwQhF1zCXKyJxjfkE-KYZZMgTUKHVV3FC6SbaeywsENao&_nc_ht=scontent.fktm3-1.fna&oh=00_AfDoq8kRklF7mkkLE_miVeWomQRaC3aykeEvAXfwHgcInw&oe=6392B93C" />
 - 🔭 I’m currently working on [Food Ordering Website](https://kandufood.netlify.app)
 
 - 💬 Ask me about **React, Node, Django**
