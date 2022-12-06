@@ -1,9 +1,8 @@
 # samishanthapa
 <h1 align="center">Hi 👋, I'm Samishan Thapa</h1>
 <h3 align="center">I am a full stack web developer</h3>
-- 🔭 I’m currently working on [Food Ordering Website](https://kandufood.netlify.app)
 
-- 💬 Ask me about **React, Node, Django**
+- 💬 Ask me about **React, Node, Python Django**
 
 - 📫 How to reach me **samishanthapa0@gmail.com**
 
