@@ -1,4 +1,3 @@
-# samishanthapa
 <h1 align="center">Hi 👋, I'm Samishan Thapa</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
