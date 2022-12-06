@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **samishanthapa0@gmail.com**
 
-- 🌱 I’m currently learning **DSA**
-- 
+- 🌱 I’m currently learning **DSA** 
 - ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samishan11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
