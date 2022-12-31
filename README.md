@@ -12,7 +12,7 @@
   <div> </div>
     <div> </div>
       <div> </div>
-<div style="max-width: 100%; margin-top: 100px;" align="center"><img margin-top: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samishan11&layout=compact" align="center" /></div>
+<!-- <div style="max-width: 100%; margin-top: 100px;" align="center"><img margin-top: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samishan11&layout=compact" align="center" /></div> -->
 
 <br/>  
 
