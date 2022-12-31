@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **DSA** 
 - ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samishan11&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samishan11&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="center" /></div>
+<div align="center"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" align="center" /></div>
 
 <br/>  
 
