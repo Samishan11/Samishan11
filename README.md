@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning **DSA** 
 - ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samishan11&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<div> /div>
-  <div> /div>
-    <div> /div>
-      <div> /div>
+<div> </div>
+  <div> </div>
+    <div> </div>
+      <div> </div>
 <div style="max-width: 100%; margin-top: 100px;" align="center"><img margin-top: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samishan11&layout=compact" align="center" /></div>
 
 <br/>  
