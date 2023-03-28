@@ -37,8 +37,8 @@ jobs:
      # show the status of the build. Makes it easier for debugging (if there's any issues).
 #       - run: git status
       - run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
+          git config user.name "Samishan11" github-actions[bot]
+          git config user.email "samishanthapa0@gmail.com" github-actions[bot]@users.noreply.github.com
           npm version patch -m "[RELEASE] %s"
 
       # Push the changes
