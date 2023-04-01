@@ -12,7 +12,7 @@
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" /> -->
 
-<h1 align="center"></h1>
+<!-- <h1 align="center"></h1> -->
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Samishan11&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samishan11&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
