@@ -23,10 +23,10 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Samishan Thapa Chhetri",
     role: "Full Stack Developer",
-    location: "🌍 Earth",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    location: "Kathmandu, Nepal",
+    code: ["JavaScript", "TypeScript", "Python", "GO"],
     askMeAbout: ["web dev", "tech", "app dev", "clean code"],
     technologies: {
         frontEnd: {
@@ -35,11 +35,12 @@ const developer = {
         },
         backEnd: {
             js: ["Node", "Express", "Nest.js"],
-            python: ["Django", "Flask", "FastAPI"]
+            python: ["Django"]
+            GO:["Gin"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
-        tools: ["Git", "Figma", "Postman", "VS Code"]
+        tools: ["Git", "Figma", "Postman", "VS Code/Vim"]
     },
     architecture: ["Microservices", "Event-Driven", "Serverless", "MVC"],
     currentFocus: "Building scalable applications with clean architecture",
@@ -383,6 +384,6 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐️ From [yourusername](https://github.com/yourusername) with 💙**
+**⭐️ From [yourusername](https://github.com/samishan11) with 💙**
 
 </div>
