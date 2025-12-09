@@ -13,7 +13,7 @@
 <!-- Profile Views Counter with Style -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=samishan11&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -132,7 +132,7 @@ const developer = {
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samishan11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samishan11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 
 </div>
 
@@ -158,7 +158,7 @@ const developer = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=samishan11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
   
 </div>
 
@@ -259,12 +259,12 @@ graph LR
 <h3 align="center">Project Name 1</h3>
 
 <div align="center">  
-<a href="https://github.com/yourusername/project1">
+<a href="https://github.com/samishan11/project1">
 <img src="https://via.placeholder.com/400x200/6C63FF/FFFFFF?text=Project+1" width="400" alt="Project 1"/>
 </a>
 
 <p>
-<a href="https://github.com/yourusername/project1">
+<a href="https://github.com/samishan11/project1">
 <img src="https://img.shields.io/badge/Code-View-6C63FF?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://project1-demo.com">
@@ -281,12 +281,12 @@ graph LR
 <h3 align="center">Project Name 2</h3>
 
 <div align="center">  
-<a href="https://github.com/yourusername/project2">
+<a href="https://github.com/samishan11/project2">
 <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Project+2" width="400" alt="Project 2"/>
 </a>
 
 <p>
-<a href="https://github.com/yourusername/project2">
+<a href="https://github.com/samishan11/project2">
 <img src="https://img.shields.io/badge/Code-View-FF6B6B?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://project2-demo.com">
@@ -332,7 +332,7 @@ graph LR
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://dev.to/yourusername">
+<a href="https://dev.to/samishan11">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
@@ -371,9 +371,9 @@ graph LR
 ### 📈 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samishan11/samishan11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samishan11/samishan11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samishan11/samishan11/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
