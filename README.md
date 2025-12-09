@@ -384,6 +384,6 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐️ From [yourusername](https://github.com/samishan11) with 💙**
+**⭐️ From [Samishan Thapa](https://github.com/samishan11) with 💙**
 
 </div>
